@@ -1,6 +1,12 @@
 # azure/webapps-deploy
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/azure/webapps-deploy](https://github.com/azure/webapps-deploy).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v2.2.19 | [`v2.2.19`](https://github.com/chainguard-actions/webapps-deploy/tree/v2.2.19) | — |
 
 ## Privacy
 
