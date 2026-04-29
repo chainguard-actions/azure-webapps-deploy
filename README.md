@@ -1,5 +1,7 @@
 # azure/webapps-deploy
 
+Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
+
 Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/azure/webapps-deploy](https://github.com/azure/webapps-deploy).
 
 ## Versions

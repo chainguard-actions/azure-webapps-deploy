@@ -1,5 +1,6 @@
 {
   "owner": "azure",
   "name": "webapps-deploy",
-  "visibility": ""
+  "visibility": "internal",
+  "description": "Enable GitHub developers to deploy to Azure WebApps using GitHub Actions"
 }
