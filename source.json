@@ -1,4 +1,6 @@
 {
-  "upstream": "azure/webapps-deploy",
-  "version": "v2.2.19"
+  "owner": "azure",
+  "repo": "webapps-deploy",
+  "version": "",
+  "url": "https://github.com/azure/webapps-deploy"
 }
