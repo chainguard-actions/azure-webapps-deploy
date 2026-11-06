@@ -4,8 +4,13 @@
   "version": "v3.0.8",
   "commit_sha": "02a81bead70021f5284939794bcec79c271ab383",
   "url": "https://github.com/Azure/webapps-deploy",
-  "policy_sha": "d636be7e43ef829af6e853da6b3c7566db9f72fe",
+  "policy_sha": "374911c4be584df24e6da57af2d990570ef0f859",
   "test_policy_sha": "843adf9e4b8f85d0c08b27b9d0b09dd094b54702",
   "test_agent_version": "2",
-  "harden_agent_version": "2"
+  "harden_agent_version": "2",
+  "dist_artifact": {
+    "gcs_uri": "gs://patch-actions-node-artifacts/dist-artifacts/Azure/webapps-deploy/v3.0.8/sha256-c7d2111ddb09569c81e5c4a9b2a254743ddf4d24eac4a40a947de2f85197cd9b.tar.gz",
+    "sha256": "c7d2111ddb09569c81e5c4a9b2a254743ddf4d24eac4a40a947de2f85197cd9b",
+    "size_bytes": 928128
+  }
 }
